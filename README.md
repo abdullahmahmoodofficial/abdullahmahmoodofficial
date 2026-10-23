@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Abdullah Mahmood 👋
 
-<!--
-**abdullahmahmoodofficial/abdullahmahmoodofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer** & Founder of **Usmania Soft**
+🎓 Final-year **BS IT** student at Mir Chakar Khan Rind University of Technology, Dera Ghazi Khan, Pakistan
 
-Here are some ideas to get you started:
+## 🚀 What I'm Doing
+- 🌐 On a mission: **100 Business Websites Challenge** — building one professional website at a time
+- 🏥 Built a complete **University Attendance System** with GPS geofencing
+- 🔐 Built a **privacy-first messaging web app** with end-to-end encryption
+- 🛠️ Created **data recovery software** for Windows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+HTML • CSS • JavaScript • PHP • MySQL • Node.js • Python
+
+## 📫 Let's Connect
+- 📧 abdullahmahmoodofficial786@gmail.com
+- 💼 Open for freelance web development projects — DM me!
